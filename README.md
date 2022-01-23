@@ -1,6 +1,6 @@
-## Olá! Eu sou o Tiago Silva Batista!
+## 👋 Olá! Eu sou o Tiago Silva Batista!
 
-- 🔭 Atualmente eu ainda não trabalho.
+- 🔭 Atualmente eu não trabalho.
 - 🌱 Estou aprendendo React Native.
 
 <div>
