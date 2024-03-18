@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Tiago Silva Batista!
 
 - 🔭 Atualmente eu não trabalho.
-- 🌱 Estou aprendendo React Native.
+- 🌱 Estou aprendendo React.
 
 <div>
     <a href="https://github.com/batistaTiago40">
