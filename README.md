@@ -1,5 +1,6 @@
 ## 👋 Olá! Eu sou o Tiago Silva Batista!
 
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente eu não trabalho.
 - 🌱 Estou aprendendo React.
 
@@ -23,5 +24,4 @@
   <a href = "mailto:tiagosbatista40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiago-batista-520654214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/batistaTiago40/batistaTiago40/blob/output/github-contribution-grid-snake.svg)
 </div>
